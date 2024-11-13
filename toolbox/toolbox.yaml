@@ -1,0 +1,4 @@
+cmd:
+  info:
+    diskUsage:
+      defaultDirectory: "C:\\Projects\\HomeProj\\toolbox"
